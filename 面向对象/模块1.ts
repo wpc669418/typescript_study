@@ -1,5 +1,5 @@
 export var p1: string;
-
+// 测试提交
 var p2
 
 export function func1() {
